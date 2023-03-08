@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #111;
+  background: #FFFFFF;
   padding: 20px 0;
   height: 90px;
 }
@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo h1 a, #header #logo h1 a:hover {
-  color: #fff;
+  color: #333333;
 }
 
 #header #logo img {
@@ -237,9 +237,6 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.is-sticky #header {
-  background: rgba(0, 0, 0, 0.7);
-}
 
 /*--------------------------------------------------------------
 # Navigation Menu
@@ -317,7 +314,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 15px;
   text-decoration: none;
   display: inline-block;
-  color: #fff;
+  color: #333333;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
   font-size: 14px;
@@ -325,7 +322,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu li:hover > a, .nav-menu .menu-active > a {
-  color: #03C4EB;
+  color: #0f0f0f;
 }
 
 .nav-menu ul {
@@ -473,21 +470,21 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 32px;
   color: #111;
   text-transform: uppercase;
-  text-align: center;
+  text-align: left;
   font-weight: 700;
 }
 
 .section-description {
-  text-align: center;
+  text-align: left;
   margin-bottom: 40px;
 }
 
 .section-title-divider {
-  width: 100px;
+  width: 150px;
   height: 3px;
   background: #03C4EB;
-  margin: 0 auto;
-  margin-bottom: 20px;
+  margin: 0 ;
+  margin-bottom: 10px;
 }
 
 /* Get Started Section
@@ -652,7 +649,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe .subscribe-btn-container {
-  text-align:center;
+  text-align:left;
   padding-top: 20px;
 }
 
