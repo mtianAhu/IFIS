@@ -494,11 +494,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 80px 0;
 }
 
-/*
-#about .about-container {
-  background: url(../img/about-img.jpg) left top no-repeat;
-}
-*/
+
 
 
 #about .about-content {
@@ -551,11 +547,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 80px 0;
 }
 
-/*
-#about .about-container {
-  background: url(../img/about-img.jpg) left top no-repeat;
-}
-*/
 
 
 #Dabout .about-content {
@@ -676,7 +667,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Portfolio Section
 --------------------------------*/
 #portfolio {
-  background: #F5F5F6;
+  background: #FFFFFF;
   padding: 80px 0;
 }
 
